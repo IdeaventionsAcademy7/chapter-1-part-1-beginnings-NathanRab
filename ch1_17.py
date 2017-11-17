@@ -6,8 +6,8 @@
 something = input("Insert an input here:  ")
 print(something)
 
-#Something = int(something)
-#print(Something)
+Something = int(something)
+print(Something)
 
 something_float = float(something)
 print(something_float)
